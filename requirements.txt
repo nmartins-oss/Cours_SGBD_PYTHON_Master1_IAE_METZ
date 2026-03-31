@@ -1,0 +1,12 @@
+# =============================================================================
+# REQUIREMENTS — Python libraries needed to run this project
+# =============================================================================
+# Install all dependencies by running:
+#   pip install -r requirements.txt
+# =============================================================================
+
+yfinance>=0.2.30       # Download stock data from Yahoo Finance
+pandas>=2.0.0          # Data manipulation and analysis
+numpy>=1.24.0          # Numerical calculations (statistics, random numbers)
+matplotlib>=3.7.0      # Data visualization (charts and plots)
+scipy>=1.11.0          # Statistical functions (normal distribution)
