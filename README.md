@@ -1,5 +1,7 @@
 # Value at Risk (VaR) Analysis — US Equity Portfolio
 ### Master 1 Finance — Academic Group Project — IAE Metz 2026
+### Noah MARTINS DE PINA, Evrim ACER, Lenny MOUKAH, Syphax BOUARABA
+### Team La league 🔱
 
 > **Presentation date: April 10, 2026**
 
