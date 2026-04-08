@@ -10,3 +10,5 @@ pandas>=2.0.0          # Data manipulation and analysis
 numpy>=1.24.0          # Numerical calculations (statistics, random numbers)
 matplotlib>=3.7.0      # Data visualization (charts and plots)
 scipy>=1.11.0          # Statistical functions (normal distribution)
+streamlit>=1.32.0      # Web dashboard for the VaR app
+Pillow>=10.0.0         # Open and display PNG images in Streamlit
