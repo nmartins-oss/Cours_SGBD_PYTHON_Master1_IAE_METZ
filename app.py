@@ -13,6 +13,7 @@ st.set_page_config(
 st.title("📊 Value at Risk (VaR) — Portfolio Analysis")
 st.markdown("""
 **Master 1 Finance — IAE Metz | April 2026**
+**Noah MARTINS DE PINA, Evrim ACER, Lenny MOUKAH, Syphax BOUARABA**
 
 This dashboard presents the results of our Value at Risk (VaR) analysis
 on a diversified portfolio of stocks.
