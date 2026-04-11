@@ -2,7 +2,6 @@
 ## Value at Risk Analysis on a US Equity Portfolio
 ### Master 1 Finance — IAE Metz — Academic Group Project
 ### Noah MARTINS DE PINA, Evrim ACER, Lenny MOUKAH, Syphax BOUARABA
-### Team La League 🔱
 
 ---
 
